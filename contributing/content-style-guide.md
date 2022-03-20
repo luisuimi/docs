@@ -322,6 +322,7 @@ Take care to distinguish between product names and product elements. For more in
 | Product | Element |
 | --- | --- |
 | GitHub Actions | an action |
+| GitHub Codespaces | a codespace |
 | GitHub Packages | a package |
 | GitHub Pages | a GitHub Pages site |
 
@@ -448,15 +449,16 @@ Format checkbox names in bold and omit the word “checkbox.” To describe choo
 - **Use:** Select **Enable for all new repositories**.
 - **Avoid:** Check the “Enable for all new repositories” checkbox.
 
-### Dropdown menus
-
-Format dropdown menus in bold and format clickable items within a menu in bold. Select dropdown menus (regardless of whether the menu name is a word or an octicon), and click their menu items.
-- **Use:** Select the **Backup email addresses** dropdown menu and click **Only allow primary email**.
-
 ### Dynamic text
 
 Use capital letters to indicate text that changes in the user interface or that the user needs to supply in a command or code snippet.
 - **Use:** Click **Add USERNAME to REPONAME**.
+
+### Lists and list items
+
+Format lists and clickable list items in bold. To describe interacting with a list, such as a dropdown menu or UI element that expands, regardless of whether the list name is a word or an octicon, write "select." To describe choosing a list item, write "click."
+- **Use:** Select the **Backup email addresses** dropdown menu and click **Only allow primary email**.
+- **Avoid:** Click the "Backup email addresses" dropdown menu and click **Only allow primary email**.
 
 ### Location
 
@@ -593,7 +595,7 @@ Avoid ending a sentence with a preposition unless the rewritten sentence would s
 
 ### Product names
 
-See the “Product names” section of this guide.
+See the “[Product names](#product-names)” section of this guide.
 
 ### Terms to use or avoid
 
